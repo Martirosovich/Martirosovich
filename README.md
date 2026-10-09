@@ -1,4 +1,14 @@
-## Hi there 👋
+## Привет 👋
+Меня зовут Эдуард Аракелян
+
+Я специалист бизнес-анализу, разработке и внедрению бизнес-процессов.
+
+
+Контакты и ссылки:
+Электронная почта: arakelyan@yandex.ru
+Telegram:
+Портфолио:
+
 
 <!--
 **Martirosovich/Martirosovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
